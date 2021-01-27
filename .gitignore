@@ -1,0 +1,4 @@
+/.vs
+/bin
+/wave-distribution/build
+/wave-distribution/*.user
